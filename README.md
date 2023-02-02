@@ -26,4 +26,17 @@
   <tr>
       <td>tipo de sistema</td>
       <td>WINDOWS 64bits</td>
-      
+
+## Python Version
+- Python 3.10.4
+### Paquetes instalados
+Package            Version
+------------------ -----------
+biopython          1.80
+jupyter_client     7.4.8
+jupyter_core       5.1.0
+jupyterlab-widgets 3.0.5
+numpy              1.24.1
+pandas             1.5.2
+scipy              1.10.0
+seaborn            0.12.2
