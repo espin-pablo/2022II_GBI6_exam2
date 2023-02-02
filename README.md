@@ -40,3 +40,6 @@ numpy              1.24.1
 pandas             1.5.2
 scipy              1.10.0
 seaborn            0.12.2
+
+## Data utilizada
+Utilizamos la data coati que representa los datos del NCBI acerca de los coatis y sus diferentes secuencias.
